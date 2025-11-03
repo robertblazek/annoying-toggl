@@ -1,5 +1,7 @@
 # AnnoyingToggl
 
+![Icon](icon.png)
+
 ## The Time Tracker That Won't Let You Forget (Because It's Annoying AF)
 
 Ever forget to track your time on Toggl? Meet AnnoyingToggl – the app that turns procrastination into productivity through sheer irritation! This macOS gem sits in your menu bar, nagging you relentlessly until you log those precious hours. Because nothing says "I care about your productivity" like a persistent popup that won't go away.
